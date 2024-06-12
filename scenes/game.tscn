@@ -1,0 +1,144 @@
+[gd_scene load_steps=9 format=3 uid="uid://6lqbp847kjh"]
+
+[ext_resource type="Script" path="res://scenes/game.gd" id="1_vdefv"]
+[ext_resource type="Resource" uid="uid://c8g5equibwjqf" path="res://resources/dialog_1.tres" id="2_jnwjl"]
+[ext_resource type="PackedScene" uid="uid://c4dnrwrwk2nah" path="res://ui/dialog_controller.tscn" id="2_k8hce"]
+[ext_resource type="Texture2D" uid="uid://gyesy5l6nt" path="res://textures/kenney_game-icons/stop.png" id="3_0t15r"]
+[ext_resource type="Texture2D" uid="uid://c5ahl6yb705jg" path="res://textures/kenney_game-icons/forward.png" id="4_j3l0e"]
+[ext_resource type="Texture2D" uid="uid://dqn10cve2ipib" path="res://textures/kenney_game-icons/exclamation.png" id="4_wn5gs"]
+
+[sub_resource type="Gradient" id="Gradient_5nt7o"]
+interpolation_mode = 2
+colors = PackedColorArray(0, 0.27451, 0, 1, 0, 0.0745098, 0.458824, 1)
+
+[sub_resource type="GradientTexture2D" id="GradientTexture2D_jiktl"]
+gradient = SubResource("Gradient_5nt7o")
+fill_to = Vector2(1, 1)
+
+[node name="Game" type="Node"]
+script = ExtResource("1_vdefv")
+story = ExtResource("2_jnwjl")
+stop_texture = ExtResource("3_0t15r")
+
+[node name="Background" type="TextureRect" parent="."]
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+texture = SubResource("GradientTexture2D_jiktl")
+
+[node name="DialogController" parent="." instance=ExtResource("2_k8hce")]
+
+[node name="NextLineButton" type="TextureButton" parent="."]
+visible = false
+anchors_preset = 3
+anchor_left = 1.0
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = -50.0
+offset_top = -50.0
+offset_right = -18.0
+offset_bottom = -18.0
+grow_horizontal = 0
+grow_vertical = 0
+mouse_default_cursor_shape = 2
+texture_normal = ExtResource("4_j3l0e")
+ignore_texture_size = true
+stretch_mode = 6
+
+[node name="ExitLabel" type="Label" parent="."]
+visible = false
+anchors_preset = 3
+anchor_left = 1.0
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = -82.0
+offset_top = -50.0
+offset_right = -18.0
+offset_bottom = -18.0
+grow_horizontal = 0
+grow_vertical = 0
+mouse_filter = 0
+mouse_default_cursor_shape = 2
+text = "Exit"
+horizontal_alignment = 2
+vertical_alignment = 1
+
+[node name="ChangeScreen0" type="ColorRect" parent="."]
+visible = false
+offset_right = 40.0
+offset_bottom = 40.0
+color = Color(0, 0, 0, 1)
+
+[node name="MarginContainer" type="MarginContainer" parent="ChangeScreen0"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_constants/margin_left = 10
+theme_override_constants/margin_top = 10
+theme_override_constants/margin_right = 10
+theme_override_constants/margin_bottom = 10
+
+[node name="TextureRect" type="TextureRect" parent="ChangeScreen0/MarginContainer"]
+layout_mode = 2
+texture = ExtResource("4_wn5gs")
+expand_mode = 1
+stretch_mode = 5
+
+[node name="ChangeScreen1" type="ColorRect" parent="."]
+visible = false
+offset_right = 40.0
+offset_bottom = 40.0
+color = Color(0, 0, 0, 1)
+
+[node name="MarginContainer" type="MarginContainer" parent="ChangeScreen1"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_constants/margin_left = 10
+theme_override_constants/margin_top = 10
+theme_override_constants/margin_right = 10
+theme_override_constants/margin_bottom = 10
+
+[node name="TextureRect" type="TextureRect" parent="ChangeScreen1/MarginContainer"]
+layout_mode = 2
+texture = ExtResource("4_wn5gs")
+expand_mode = 1
+stretch_mode = 5
+
+[node name="ChangeScreen2" type="ColorRect" parent="."]
+visible = false
+offset_right = 40.0
+offset_bottom = 40.0
+color = Color(0, 0, 0, 1)
+
+[node name="MarginContainer" type="MarginContainer" parent="ChangeScreen2"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_constants/margin_left = 10
+theme_override_constants/margin_top = 10
+theme_override_constants/margin_right = 10
+theme_override_constants/margin_bottom = 10
+
+[node name="TextureRect" type="TextureRect" parent="ChangeScreen2/MarginContainer"]
+layout_mode = 2
+texture = ExtResource("4_wn5gs")
+expand_mode = 1
+stretch_mode = 5
+
+[connection signal="animation_completed" from="DialogController" to="." method="_on_dialog_animation_completed"]
+[connection signal="pressed" from="NextLineButton" to="." method="_on_next_pressed"]
+[connection signal="gui_input" from="ExitLabel" to="." method="_on_exit_input"]

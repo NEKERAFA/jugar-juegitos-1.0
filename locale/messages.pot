@@ -1,0 +1,199 @@
+msgid ""
+msgstr ""
+
+msgid "Select language"
+msgstr ""
+
+msgid "Spanish"
+msgstr ""
+
+msgid "Galician"
+msgstr ""
+
+msgid "Do you want to continue the story in screen?"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "Are you sure?"
+msgstr ""
+
+msgid "Ok, Where was I going?"
+msgstr ""
+
+msgid "Exit"
+msgstr ""
+
+msgid "STORY_1_LINE_1"
+msgstr ""
+
+msgid "STORY_1_LINE_2"
+msgstr ""
+
+msgid "STORY_1_LINE_3"
+msgstr ""
+
+msgid "STORY_1_LINE_4"
+msgstr ""
+
+msgid "STORY_1_LINE_5"
+msgstr ""
+
+msgid "STORY_1_LINE_6"
+msgstr ""
+
+msgid "STORY_1_LINE_7"
+msgstr ""
+
+msgid "STORY_1_LINE_8"
+msgstr ""
+
+msgid "STORY_1_LINE_9"
+msgstr ""
+
+msgid "STORY_1_LINE_10"
+msgstr ""
+
+msgid "STORY_1_LINE_11"
+msgstr ""
+
+msgid "STORY_1_LINE_12"
+msgstr ""
+
+msgid "STORY_1_LINE_13"
+msgstr ""
+
+msgid "STORY_1_LINE_14"
+msgstr ""
+
+msgid "STORY_1_LINE_15"
+msgstr ""
+
+msgid "STORY_1_LINE_16"
+msgstr ""
+
+msgid "STORY_1_LINE_17"
+msgstr ""
+
+msgid "STORY_1_LINE_18"
+msgstr ""
+
+msgid "STORY_1_LINE_19"
+msgstr ""
+
+msgid "STORY_1_LINE_20"
+msgstr ""
+
+msgid "STORY_1_LINE_21"
+msgstr ""
+
+msgid "STORY_1_LINE_22"
+msgstr ""
+
+msgid "STORY_1_LINE_23"
+msgstr ""
+
+msgid "STORY_1_LINE_24"
+msgstr ""
+
+msgid "STORY_1_LINE_25"
+msgstr ""
+
+msgid "STORY_1_LINE_26"
+msgstr ""
+
+msgid "STORY_1_LINE_27"
+msgstr ""
+
+msgid "STORY_1_LINE_28"
+msgstr ""
+
+msgid "STORY_1_LINE_29"
+msgstr ""
+
+msgid "STORY_1_LINE_30"
+msgstr ""
+
+msgid "STORY_1_LINE_31"
+msgstr ""
+
+msgid "STORY_1_LINE_32"
+msgstr ""
+
+msgid "STORY_1_LINE_33"
+msgstr ""
+
+msgid "STORY_1_LINE_34"
+msgstr ""
+
+msgid "STORY_1_LINE_35"
+msgstr ""
+
+msgid "STORY_1_LINE_36"
+msgstr ""
+
+msgid "STORY_1_LINE_37"
+msgstr ""
+
+msgid "STORY_1_LINE_38"
+msgstr ""
+
+msgid "STORY_1_LINE_39"
+msgstr ""
+
+msgid "STORY_1_LINE_40"
+msgstr ""
+
+msgid "STORY_1_LINE_41"
+msgstr ""
+
+msgid "STORY_1_LINE_42"
+msgstr ""
+
+msgid "STORY_1_LINE_43"
+msgstr ""
+
+msgid "STORY_1_LINE_44"
+msgstr ""
+
+msgid "STORY_1_LINE_45"
+msgstr ""
+
+msgid "STORY_1_LINE_46"
+msgstr ""
+
+msgid "STORY_1_LINE_47"
+msgstr ""
+
+msgid "STORY_1_LINE_48"
+msgstr ""
+
+msgid "STORY_2_LINE_1"
+msgstr ""
+
+msgid "STORY_2_LINE_2"
+msgstr ""
+
+msgid "STORY_2_LINE_3"
+msgstr ""
+
+msgid "STORY_2_LINE_4"
+msgstr ""
+
+msgid "STORY_2_LINE_5"
+msgstr ""
+
+msgid "STORY_2_LINE_6"
+msgstr ""
+
+msgid "STORY_2_LINE_7"
+msgstr ""
+
+msgid "STORY_2_LINE_8"
+msgstr ""
+
+

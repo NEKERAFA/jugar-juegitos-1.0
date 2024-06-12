@@ -1,0 +1,44 @@
+[gd_resource type="Resource" script_class="Dialog" load_steps=12 format=3 uid="uid://c3v1sqr6lkhw"]
+
+[ext_resource type="Script" path="res://scripts/dialog.gd" id="1_1pp8r"]
+[ext_resource type="Script" path="res://scripts/dialog_line.gd" id="1_n05ig"]
+
+[sub_resource type="Resource" id="Resource_sakir"]
+script = ExtResource("1_n05ig")
+message_id = "STORY_2_LINE_1"
+
+[sub_resource type="Resource" id="Resource_irpvk"]
+script = ExtResource("1_n05ig")
+message_id = "STORY_2_LINE_2"
+
+[sub_resource type="Resource" id="Resource_ykqod"]
+script = ExtResource("1_n05ig")
+message_id = "STORY_2_LINE_3"
+
+[sub_resource type="Resource" id="Resource_q2wfo"]
+script = ExtResource("1_n05ig")
+message_id = "STORY_2_LINE_4"
+
+[sub_resource type="Resource" id="Resource_yg3d5"]
+script = ExtResource("1_n05ig")
+message_id = "STORY_2_LINE_5"
+
+[sub_resource type="Resource" id="Resource_n8o82"]
+script = ExtResource("1_n05ig")
+message_id = "STORY_2_LINE_6"
+
+[sub_resource type="Resource" id="Resource_6n3qc"]
+script = ExtResource("1_n05ig")
+message_id = "STORY_2_LINE_7"
+
+[sub_resource type="Resource" id="Resource_5o4gq"]
+script = ExtResource("1_n05ig")
+message_id = "STORY_2_LINE_8"
+
+[sub_resource type="Resource" id="Resource_7xg0i"]
+script = ExtResource("1_n05ig")
+message_id = "Ok, Where was I going?"
+
+[resource]
+script = ExtResource("1_1pp8r")
+lines = Array[ExtResource("1_n05ig")]([SubResource("Resource_sakir"), SubResource("Resource_irpvk"), SubResource("Resource_ykqod"), SubResource("Resource_q2wfo"), SubResource("Resource_yg3d5"), SubResource("Resource_n8o82"), SubResource("Resource_6n3qc"), SubResource("Resource_5o4gq"), SubResource("Resource_7xg0i")])

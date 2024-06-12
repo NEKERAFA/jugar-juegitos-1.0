@@ -1,0 +1,258 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0.1\n"
+
+msgid "Select language"
+msgstr "Seleccionar lenguaje"
+
+msgid "Spanish"
+msgstr "Castellano"
+
+msgid "Galician"
+msgstr "Gallego"
+
+msgid "Do you want to continue the story in screen?"
+msgstr "¿Quieres continuar la historia en esta pantalla?"
+
+msgid "Yes"
+msgstr "Sí"
+
+msgid "No"
+msgstr "No"
+
+msgid "Are you sure?"
+msgstr "¿Estás segure?"
+
+msgid "Ok, Where was I going?"
+msgstr "Vale, ¿por donde iba?"
+
+msgid "Exit"
+msgstr "Salir"
+
+msgid "STORY_1_LINE_1"
+msgstr "Bueno, a ver que sale de esto"
+
+msgid "STORY_1_LINE_2"
+msgstr ""
+"Me presento, soy Rafa, de A Coruña, y bueno, mi idea era hacer una pequeñita "
+"historia"
+
+msgid "STORY_1_LINE_3"
+msgstr ""
+"Aquí el peludito que sale es mi gato. Se llama Donato y tiene problemas de "
+"respiración"
+
+msgid "STORY_1_LINE_4"
+msgstr "Lo voy a usar para representar esta historia. Espero que no os importe"
+
+msgid "STORY_1_LINE_5"
+msgstr ""
+"Es gracioso, porque para nada es un gato silencioso. Como ronca el condenado"
+
+msgid "STORY_1_LINE_6"
+msgstr ""
+"También se le une que tiene una cantera por riñones. Por eso está “a dieta”"
+
+msgid "STORY_1_LINE_7"
+msgstr "Lo de “a dieta” es literal, que hay que darle un piensito específico"
+
+msgid "STORY_1_LINE_8"
+msgstr ""
+"Es por eso que cuando lo llevamos al vete por algo, mis amigues sueltan un "
+"“ale, ya está mierdón”"
+
+msgid "STORY_1_LINE_9"
+msgstr ""
+"Mierdón viene de un meme de un perrete con carita pocha y que tiene muchos "
+"problemas"
+
+msgid "STORY_1_LINE_10"
+msgstr ""
+"Y bueno, la cosa es que el perrete era de prote según el meme, como Donato"
+
+msgid "STORY_1_LINE_11"
+msgstr "¡Pero mira que cosita! ¡Como duerme!"
+
+msgid "STORY_1_LINE_12"
+msgstr ""
+"En realidad el meme es una broma por lo del mensaje de “¡No compres, Adopta!”"
+
+msgid "STORY_1_LINE_13"
+msgstr ""
+"Da un poco de asquete, así que no le hagas caso y adopta. Haz feliz a un "
+"peludete"
+
+msgid "STORY_1_LINE_14"
+msgstr "Siguiendo con lo del tema del gato silencioson’t"
+
+msgid "STORY_1_LINE_15"
+msgstr ""
+"Una de las cosas que más me hace gracia es que sé cuando entra en la habita "
+"en la que estoy"
+
+msgid "STORY_1_LINE_16"
+msgstr "Lo sé porque lo escucho respirar (si no lo hace me preocuparía)"
+
+msgid "STORY_1_LINE_17"
+msgstr "En cambio mi pareja no lo escucha mucho. Es normal, tiene hipoacusia"
+
+msgid "STORY_1_LINE_18"
+msgstr ""
+"Así que da situaciones super graciosas, de empezar a decir de la nada "
+"“TATATATATA” porque el gato se pone a rascar la cabeza"
+
+msgid "STORY_1_LINE_19"
+msgstr ""
+"Y como mi pareja no lo vio entrar, me dice sabiendo de qué va la broma (que "
+"no tengo síndrome de tourette): “¿Qué pasa, está el gato ahí?”"
+
+msgid "STORY_1_LINE_20"
+msgstr "Y Donato se me queda mirando en plan: “¿Eres tonto o comes piedras?”"
+
+msgid "STORY_1_LINE_21"
+msgstr ""
+"Sé que no hay que reírse de estas cosas, pero tengo otras anécdotas entre mi "
+"pareja y yo por ser disca"
+
+msgid "STORY_1_LINE_22"
+msgstr ""
+"La mítica que siempre recordamos es la de estar en la cola de la caja y "
+"decirle: “Dios mío, qué reventade estoy hoy, eh”"
+
+msgid "STORY_1_LINE_23"
+msgstr ""
+"La cosa es que veo que en vez de contestarme, mira a su reloj y dice con más "
+"razón que un santo “Pues son las 8 y media (de la tarde”"
+
+msgid "STORY_1_LINE_24"
+msgstr "Y se hace un silencio..."
+
+msgid "STORY_1_LINE_25"
+msgstr ""
+"Me empiezo a descojonar mucho porque ya se por donde va la cosa, y es que "
+"entendió que le preguntaba por la hora"
+
+msgid "STORY_1_LINE_26"
+msgstr ""
+"Comienza a reirse al verme reirme y me pregunta: “Espera, ¿qué me "
+"preguntaste?”"
+
+msgid "STORY_1_LINE_27"
+msgstr "- Entre risas - “Nada, que estoy cansade”"
+
+msgid "STORY_1_LINE_28"
+msgstr "- “Ahh…” - Más risas"
+
+msgid "STORY_1_LINE_29"
+msgstr "La cajera mira estrañada porque no entiende qué pasa"
+
+msgid "STORY_1_LINE_30"
+msgstr ""
+"Otra anécdota que me viene a la cabeza se dió un día que dos amigos estaban "
+"viniendo a un bar"
+
+msgid "STORY_1_LINE_31"
+msgstr ""
+"Y se encontraron con una persona mayor, que aparte tenía visión reducida"
+
+msgid "STORY_1_LINE_32"
+msgstr ""
+"¿Sabías que los bastones para gente con discapacidad visual tienen colores?"
+
+msgid "STORY_1_LINE_33"
+msgstr "Yo tampoco, lo acabo de ver viendo si tenían un nombre en concreto"
+
+msgid "STORY_1_LINE_34"
+msgstr ""
+"La cosa es que le preguntaron si quería cruzar la calle, ya que estaba en un "
+"paso de cebra"
+
+msgid "STORY_1_LINE_35"
+msgstr "Supongo que dijo que sí, porque le ayudaron"
+
+msgid "STORY_1_LINE_36"
+msgstr ""
+"Pues estaban cruzando toda la calle y bueno, no todos los pasos están aún "
+"adaptados. Había un escalón"
+
+msgid "STORY_1_LINE_37"
+msgstr ""
+"Y uno de mis amigos, preocupado le dice: “Tenga cuidado que hay un escalón”"
+
+msgid "STORY_1_LINE_38"
+msgstr "- “¿Lo vé?”"
+
+msgid "STORY_1_LINE_39"
+msgstr ""
+"Mi amigo perjura que lo decía porque al final con el bastón puedes notar a "
+"qué distancia está el escalón"
+
+msgid "STORY_1_LINE_40"
+msgstr "Para algo es una ayuda mediante el tacto"
+
+msgid "STORY_1_LINE_41"
+msgstr "A veces nos olvidamos de que un sentido se puede cubrir con otro"
+
+msgid "STORY_1_LINE_42"
+msgstr ""
+"A mi otro amigo obviamente se le olvidó, y se fue todo el camino descojonando"
+
+msgid "STORY_1_LINE_43"
+msgstr "- “¿Pero cómo le dices a alguien con discapacidad visual si ve?”"
+
+msgid "STORY_1_LINE_44"
+msgstr "Bueno, no sabemos cuanto vé"
+
+msgid "STORY_1_LINE_45"
+msgstr ""
+"En fin, lo voy dejando por aquí, que aún vas a pensar que hice este proyecto "
+"para meterme con las personas discas y los gatos"
+
+msgid "STORY_1_LINE_46"
+msgstr "En realidad quería probar a hacer una historia textual en Godot"
+
+msgid "STORY_1_LINE_47"
+msgstr ""
+"Y qué mejor que destacar esos pequeños detallitos que a mucha gente se nos "
+"pasa por alto"
+
+msgid "STORY_1_LINE_48"
+msgstr "Espero que te hayas divertido al menos"
+
+msgid "STORY_2_LINE_1"
+msgstr "Veo que te gusta romper las cosas"
+
+msgid "STORY_2_LINE_2"
+msgstr ""
+"No entiendo por qué. Será por nuestra obsesión de llegar un pasito más allá"
+
+msgid "STORY_2_LINE_3"
+msgstr ""
+"Y sí, es lo que parece, una historia oculta al otro lado de la pantalla"
+
+msgid "STORY_2_LINE_4"
+msgstr "Un diálogo para romper la cuarta pared..."
+
+msgid "STORY_2_LINE_5"
+msgstr "O más bien el cuarto monitor..."
+
+msgid "STORY_2_LINE_6"
+msgstr "¿Lo pillas? Igual es que no tienes tantos monitores"
+
+msgid "STORY_2_LINE_7"
+msgstr "No te preocupes, yo tampoco"
+
+msgid "STORY_2_LINE_8"
+msgstr "Al menos mi portátil tiene uno decente. En fín"
+
+#~ msgid "English"
+#~ msgstr "Inglés"
